@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/eacooper400/RILanalysis
+	branch = master
+	commit = 86d75fd1d71888a37682adafc587adeb8df90161
+	parent = a60b672e773f439f0dc505b6b6ee9d36ad02debb
+	cmdver = 0.3.1
