@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/eacooper400/HapMap_Helpers
+	branch = master
+	commit = 02cb405e11477a10b9a5284f5f5772e0287075d1
+	parent = d970f3c96da55e34d9f1cb9c9536bebfe194064b
+	cmdver = 0.3.1
